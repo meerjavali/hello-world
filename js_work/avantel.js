@@ -1,3 +1,5 @@
+//This is avantel Technical round questions please
+// There all 3 questions and answers aswell
 // let a =[{id : 1, name : "Apple"},{id : 2, name : "Banana"}];
 // a[0].id=2;
 // a[1].id=1;
